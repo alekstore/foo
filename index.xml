@@ -13,21 +13,24 @@
       <link>https://alekstore.github.io/foo/posts/post1/</link>
       <pubDate>Sat, 18 Apr 2026 14:05:56 +0300</pubDate>
       <guid>https://alekstore.github.io/foo/posts/post1/</guid>
-      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/content/images/car_red.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post2</title>
       <link>https://alekstore.github.io/foo/posts/post2/</link>
       <pubDate>Sat, 18 Apr 2026 14:05:56 +0300</pubDate>
       <guid>https://alekstore.github.io/foo/posts/post2/</guid>
-      <description>&lt;h2 id=&#34;второй-пост&#34;&gt;Второй пост&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;второй-пост&#34;&gt;Второй пост&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/content/images/car_yellow.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post3</title>
       <link>https://alekstore.github.io/foo/posts/post3/</link>
       <pubDate>Sat, 18 Apr 2026 14:05:56 +0300</pubDate>
       <guid>https://alekstore.github.io/foo/posts/post3/</guid>
-      <description>&lt;h2 id=&#34;третий-пост&#34;&gt;Третий пост&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;третий-пост&#34;&gt;Третий пост&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/content/images/car_brown.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
