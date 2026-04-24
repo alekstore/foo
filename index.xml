@@ -6,8 +6,17 @@
     <description>Recent content on Blog</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Apr 2026 14:05:56 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:16:16 +0000</lastBuildDate>
     <atom:link href="https://alekstore.github.io/foo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пост 4</title>
+      <link>https://alekstore.github.io/foo/posts/2026-04-24/</link>
+      <pubDate>Fri, 24 Apr 2026 09:16:16 +0000</pubDate>
+      <guid>https://alekstore.github.io/foo/posts/2026-04-24/</guid>
+      <description>&lt;h2 id=&#34;пост-набоан-в-мобильнике&#34;&gt;Пост набоан в мобильнике.&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Десна&#34; loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2026-04-24/post42.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;вид-на-разлив-реки-со-стороны-жк-речной&#34;&gt;Вид на разлив реки со стороны жк Речной.&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>В коричневом цвете</title>
       <link>https://alekstore.github.io/foo/posts/2025-01-17/</link>
