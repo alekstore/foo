@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>alekstore blog</title>
-    <link>https://252111.netlify.app/</link>
+    <link>https://alekstore.github.io/foo/</link>
     <description>Recent content on alekstore blog</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 24 Apr 2026 09:16:16 +0000</lastBuildDate>
-    <atom:link href="https://252111.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alekstore.github.io/foo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сайт на коленке</title>
-      <link>https://252111.netlify.app/posts/2026-04-24/</link>
+      <link>https://alekstore.github.io/foo/posts/2026-04-24/</link>
       <pubDate>Fri, 24 Apr 2026 09:16:16 +0000</pubDate>
-      <guid>https://252111.netlify.app/posts/2026-04-24/</guid>
+      <guid>https://alekstore.github.io/foo/posts/2026-04-24/</guid>
       <description>&lt;h2 id=&#34;пост-собран-в-мобильнике&#34;&gt;Пост собран в мобильнике🛠️&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Пища&#34; loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2026-04-24/post42.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Пища&#34; loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2026-04-24/post42.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;-к-чему-этот-пост&#34;&gt;🤓 К чему этот пост?&lt;/h3&gt;
 &lt;p&gt;Можно просто сидеть попивая пивас и набирать на мобиле посты с контентом для своего сайта собранного на Hugo SAG основе.&lt;/p&gt;
 &lt;h3 id=&#34;для-этого-понадобится&#34;&gt;Для этого понадобится:&lt;/h3&gt;
@@ -40,28 +40,28 @@
     </item>
     <item>
       <title>Четыре старые клячи</title>
-      <link>https://252111.netlify.app/posts/2025/</link>
+      <link>https://alekstore.github.io/foo/posts/2025-05-05/</link>
       <pubDate>Fri, 18 Apr 2025 14:05:56 +0300</pubDate>
-      <guid>https://252111.netlify.app/posts/2025/</guid>
+      <guid>https://alekstore.github.io/foo/posts/2025-05-05/</guid>
       <description>&lt;h2 id=&#34;4-олдсмобиля&#34;&gt;4 олдсмобиля&lt;/h2&gt;
 &lt;h3 id=&#34;100-лет-назад-народ-ездил-на-таких-машинах&#34;&gt;100 лет назад народ ездил на таких машинах🤓&lt;/h3&gt;
 &lt;h3 id=&#34;wolselay-1904-года&#34;&gt;Wolselay 1904 года&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2025/car_wolseley.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2025-05-05/car_wolseley.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;желтый-олдсмобиль&#34;&gt;Желтый олдсмобиль&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2025/car_yellow.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2025-05-05/car_yellow.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;коричневый-олдсмобиль&#34;&gt;Коричневый олдсмобиль&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2025/car_brown.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2025-05-05/car_brown.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;красный-олдсмобиль&#34;&gt;Красный олдсмобиль&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2025/car_red.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2025-05-05/car_red.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;ford T&#34; loading=&#34;lazy&#34; src=&#34;https://media3.giphy.com/media/v1.Y2lkPTA5YTdjMGI1c3cxanRpbHlhZnVvOTlkb3gzMjhiOTNwMDJyYmoxemFmc2N2YW8yZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XPNIRL6sCmhDq/giphy.gif&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Это вам не пожарнаяя машина</title>
-      <link>https://252111.netlify.app/posts/2022/</link>
+      <link>https://alekstore.github.io/foo/posts/2022-02-02/</link>
       <pubDate>Mon, 18 Apr 2022 14:05:56 +0300</pubDate>
-      <guid>https://252111.netlify.app/posts/2022/</guid>
+      <guid>https://alekstore.github.io/foo/posts/2022-02-02/</guid>
       <description>&lt;h2 id=&#34;кто-выбирает-красный-цвет&#34;&gt;Кто выбирает красный цвет&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2022/car_red.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2022-02-02/car_red.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;цвет-ассоциируется-со-скоростью-страстью-и--амбициями&#34;&gt;Цвет ассоциируется со скоростью, страстью и  амбициями.&lt;/h3&gt;
 &lt;p&gt;Красный цвет автомобиля обычно выбирают уверенные в себе, энергичные, смелые и общительные люди, стремящиеся выделиться в потоке и подчеркнуть свою индивидуальность. Этот цвет ассоциируется со скоростью, страстью, амбициями и часто указывает на импульсивный характер владельца.&lt;/p&gt;
 &lt;p&gt;Основные характеристики владельцев красных авто:
@@ -80,11 +80,11 @@
     </item>
     <item>
       <title>Первым авто моей дочери был желтый Matiz!</title>
-      <link>https://252111.netlify.app/posts/2020/</link>
+      <link>https://alekstore.github.io/foo/posts/2020-01-01/</link>
       <pubDate>Sat, 18 Apr 2020 14:05:56 +0300</pubDate>
-      <guid>https://252111.netlify.app/posts/2020/</guid>
+      <guid>https://alekstore.github.io/foo/posts/2020-01-01/</guid>
       <description>&lt;h2 id=&#34;зачем-новичку-желтый-автомобиль&#34;&gt;Зачем новичку желтый автомобиль?&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2020/car_yellow.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2020-01-01/car_yellow.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;желтый-цвет---авариям-нет&#34;&gt;&lt;font color=&#34;#ffff00&#34;&gt;Желтый цвет - авариям нет!&lt;/font&gt;&lt;/h3&gt;
 &lt;p&gt;Согласно статистике страховых компаний и исследованиям, самыми безопасными (не аварийными) цветами автомобилей являются белый, желтый и другие яркие светлые оттенки.&lt;/p&gt;
 &lt;p&gt;Самые безопасные цвета (статистика)&lt;/p&gt;
@@ -98,11 +98,11 @@
     </item>
     <item>
       <title>В коричневом цвете</title>
-      <link>https://252111.netlify.app/posts/2019/</link>
+      <link>https://alekstore.github.io/foo/posts/2019-01-01/</link>
       <pubDate>Thu, 18 Apr 2019 14:05:56 +0300</pubDate>
-      <guid>https://252111.netlify.app/posts/2019/</guid>
+      <guid>https://alekstore.github.io/foo/posts/2019-01-01/</guid>
       <description>&lt;h2 id=&#34;автомобиль-очень-редкого-окраса&#34;&gt;Автомобиль очень редкого окраса.&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://252111.netlify.app/posts/2019/car_brown.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/posts/2019-01-01/car_brown.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;коричневый-цвет-авто-предпочитают&#34;&gt;Коричневый цвет авто предпочитают:&lt;/h3&gt;
 &lt;p&gt;Выбирают люди, ценящие стабильность, практичность и спокойствие, часто предпочитающие не привлекать лишнего внимания на дороге. Этот оттенок набирает популярность (около 7% продаж в РФ на начало 2025 года), особенно среди владельцев внедорожников, так как на нем менее заметна грязь.&lt;/p&gt;
 &lt;h3 id=&#34;основные-характеристики-людей-выбирающих-коричневый-авто&#34;&gt;Основные характеристики людей, выбирающих коричневый авто:&lt;/h3&gt;
