@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog</title>
+    <title>alekstore blog</title>
     <link>https://alekstore.github.io/foo/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on alekstore blog</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Apr 2026 14:05:56 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:26:34 +0300</lastBuildDate>
     <atom:link href="https://alekstore.github.io/foo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контакты</title>
+      <link>https://alekstore.github.io/foo/contacts/</link>
+      <pubDate>Sun, 03 May 2026 17:26:34 +0300</pubDate>
+      <guid>https://alekstore.github.io/foo/contacts/</guid>
+      <description>&lt;h2 id=&#34;привет-&#34;&gt;Привет 🤓&lt;/h2&gt;
+&lt;h3 id=&#34;-здесь&#34;&gt;&lt;a href=&#34;https://github.com/alekstore&#34;&gt;✅ Здесь&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>О сайте</title>
+      <link>https://alekstore.github.io/foo/about/</link>
+      <pubDate>Sun, 03 May 2026 16:58:08 +0300</pubDate>
+      <guid>https://alekstore.github.io/foo/about/</guid>
+      <description>&lt;h2 id=&#34;сайт-о-сайтах-&#34;&gt;Сайт о сайтах 😄&lt;/h2&gt;
+&lt;h3 id=&#34;итак-зачем-же-я-полез-в-hugo&#34;&gt;Итак, зачем же я полез в Hugo?&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;960&#34; loading=&#34;lazy&#34; src=&#34;https://alekstore.github.io/foo/about/code_05.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;от-wordpress-joomla-и-drupal-к-jelyll-путь-самурая&#34;&gt;От WordPress, Joomla и Drupal к Jelyll: путь самурая&lt;/h3&gt;
+&lt;p&gt;Всё началось 10 лет назад с &lt;strong&gt;WordPress&lt;/strong&gt;. Отличная штука!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>В коричневом цвете</title>
       <link>https://alekstore.github.io/foo/posts/2025-01-17/</link>
